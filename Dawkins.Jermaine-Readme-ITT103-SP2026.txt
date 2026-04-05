@@ -1,0 +1,36 @@
+
+
+
+
+Authors:  Racquel Coley and Jermaine Dawkins
+Date Created: 4th April 2026
+Course: ITT103
+GitHub Public URL to Code https://github.com/rcoley10-code/Encryption-Experts-POS-ITT103-SP2026.py-:
+
+
+Purpose of Programme:
+
+This programme simulates a basic point of sale system for retail stores called best busy retailers. It allows a cashier to navigate a customer’s shopping session by viewing available products , adding and removing products from a cart and processing a checkout. At check out the system automatically applies a 5% discount on purchases over $5000, calculates a 10% tax, computes totals, accepts payment, return change and prints a timestamped receipt. The programme also tracks inventory by reducing stock when items are added and restored when items are removed and warns the cashier when a product stock falls below 5.
+
+How to run it:
+
+Step one install programm 
+Step two: open pycharm terminal paste code in 
+Step three: run the command
+Step four save as pos_system
+
+Any assumptions or limitations:
+
+Product name must be typed exactly as they appear in the system
+
+The system runs in a command line interface, you can not bypass certain commands.
+
+All prices are assumed to be in JMD
+
+It is assumed that there is only one cashier and one customer at a time.
+
+Stock must be available before item is added to the cart
+
+Limitations - Upgrades would need to be as right now the system does not save or record receipts or transactions.
+
+
